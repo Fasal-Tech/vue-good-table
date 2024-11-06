@@ -1701,5 +1701,5 @@ export default {
 
 <style lang="scss">
 
-@import "../styles/style";
+@use "../styles/style";
 </style>
