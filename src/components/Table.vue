@@ -1698,8 +1698,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss">
-
-@use "../styles/style";
-</style>
